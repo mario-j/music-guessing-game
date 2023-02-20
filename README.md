@@ -1,6 +1,10 @@
+Work in progress. 
+
 # MusicGuessingGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+
+One of my music history courses tested on our ability to recognize stylistic traits of a piece of music to identify the era in which it was composed, and who likely composed it. This site is an inspiration of those tests. You have to identify a piece of music from a 30 second snippet of audio. This is a work in progress, but I'll be updating this wiki periodically as progress is made.
 
 ## Development server
 
